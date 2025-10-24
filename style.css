@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&display=swap');
 body {
     background-color: rgb(0, 0, 0);
     color: rgb(0, 0, 255);
     font-size: 60px;
-    font-family: cursive;
+    font-family: "Bitcount Grid Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0.5,
+        "ELSH" 0,
+        "ELXP" 0;
+    text-align: center;
 }
 
 img {
