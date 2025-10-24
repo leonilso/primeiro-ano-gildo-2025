@@ -17,6 +17,7 @@ body {
 
 img {
     width: 200px;
+    opacity: 0.5;
 }
 
 .paragrafo{
@@ -34,5 +35,9 @@ img {
     display: flex;
     gap: 20px;
     padding: 20px;
+}
+
+img:hover{
+    opacity: 1.0;
 }
 
